@@ -1,6 +1,6 @@
 Absolutely, here's a refined version suitable for your GitHub readme:
 
----
+
 
 ## Understanding `useEffect` in React: Managing Side Effects
 
@@ -29,7 +29,3 @@ What you put inside the dependency array determines when the effect should re-ru
 - If no dependency array is provided, the effect will run after every render. This approach is rarely used as it can lead to performance issues, but it's necessary when an effect needs to adjust to every change.
 
 The beauty of `useEffect` is that it doesn't return anything (undefined), focusing solely on side-effect management.
-
----
-
-Feel free to customize and expand upon this content for your GitHub readme page. Let me know if you need further assistance!
